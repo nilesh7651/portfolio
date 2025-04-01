@@ -4,11 +4,14 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "gh-pages -d out"
+    "export": "next build && next export",
+    "vercel-build": "next build",
+    "static": "next build && next export"
   },
+
 
 
   "dependencies": {
