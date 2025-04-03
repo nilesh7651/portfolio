@@ -34,7 +34,7 @@ const Hero = () => {
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80"></p>
 
           <TextGenerateEffect
-            words='Hi,<span className="text-purple">Nilesh</span> here.'
+            words="Hi, Nilesh here."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
