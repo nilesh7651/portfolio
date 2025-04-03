@@ -34,17 +34,17 @@ const Hero = () => {
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80"></p>
 
           <TextGenerateEffect
-            words="Exploring the world of Endless possibilities"
+            words="Hi,Nilesh here."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Nilesh, a computer science student.
+            A computer science student
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="About Me"
               icon={<FaLocationArrow />}
               position="right"
             />
