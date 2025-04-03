@@ -38,12 +38,8 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
-          <TextGenerateEffect
-            words="A computer science student exploring the world endless possibilities"
-            className="text-center text-[40px] md:text-2xl lg:text-2xl"
-          />
-
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl"> </p>
+          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl"> A computer science student exploring the world endless possibilities
+          </p>
 
           <a href="#about">
             <MagicButton
